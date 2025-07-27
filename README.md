@@ -1,4 +1,4 @@
-![bg](https://github.com/user-attachments/assets/ccc0935f-85e1-4f05-9d87-a7b74ecc3ed9)
+![bg](https://github.com/user-attachments/assets/74f39fb6-6de3-4881-9ac9-fb542961958a)
 
 <h1 align="center">Hi there 👋, I'm Aditi Verma</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | BTech CSE Student at DIT University</h3>
