@@ -3,12 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Aditi Verma</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | BTech CSE Student at DIT University</h3>
 
-<p align="center">
-  <a href="mailto:aditi332005@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/aditi-verma-b02917256/">🔗 LinkedIn</a> •
-  <a href="https://github.com/Aditi33-coder">💻 GitHub</a>
-</p>
-
 ---
 
 ### 🧾 About Me
