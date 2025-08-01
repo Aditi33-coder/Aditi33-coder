@@ -16,7 +16,7 @@
 - 👩‍🎓 BTech Computer Science student at **DIT University** 
 - 💼 Currently working as a **Frontend Developer at HashedBit Innovations**
 - 🌟 Former React Developer Intern at **Celebal Technologies**
-- 💻 Passionate about **web development**, UI/UX design, and building real-world projects
+- 💻 Passionate about **web development**, AI, and building real-world projects
 - 🧩 Strong foundation in **DSA**, **OOP**, and modern web frameworks
 - 🌱 Always exploring **ReactJS**, **JavaScript**, and new development tools
 
@@ -100,11 +100,9 @@
 
 Feel free to reach out for collaboration, internships, or just to connect!
 
-- 📧 Email: **aditi332005@gmail.com**  
+- 📧 [Email](aditi332005@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aditi-verma-b02917256/)  
 - 💻 [GitHub](https://github.com/Aditi33-coder)
 
----
 
-_Thanks for visiting! Have a great day! 😊_
 
