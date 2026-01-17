@@ -1,18 +1,18 @@
 ![bg](https://github.com/user-attachments/assets/74f39fb6-6de3-4881-9ac9-fb542961958a)
 
 <h1 align="center">Hi there 👋, I'm Aditi Verma</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | BTech CSE Student at DIT University</h3>
+<h3 align="center">Future Software Developer | React Enthusiast | BTech CSE Student at DIT University</h3>
 
 ---
 
 ### 🧾 About Me
 
 - 👩‍🎓 BTech Computer Science student at **DIT University** 
-- 💼 Currently working as a **Frontend Developer at HashedBit Innovations**
+- 💼 Worked as a **Frontend Developer at HashedBit Innovations**
 - 🌟 Former React Developer Intern at **Celebal Technologies**
 - 💻 Passionate about **web development**, AI, and building real-world projects
 - 🧩 Strong foundation in **DSA**, **OOP**, and modern web frameworks
-- 🌱 Always exploring **ReactJS**, **JavaScript**, and new development tools
+- 🌱 Always exploring new development tools
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 💼 Work Experience
 
-**Frontend Developer – HashedBit Innovations (Apr 2025 – Present)**  
+**Software Developer – HashedBit Innovations (Apr 2025 – August 2025)**  
 - Optimized feedback forms by removing unnecessary loaders  
 - Created short feedback modules with star ratings and optional comments  
 - Integrated order deletion feature with proper backend & UI  
@@ -41,21 +41,21 @@
 - Built responsive forms with live validations using React hooks  
 - Developed a full-featured ticket booking app with Razorpay payments  
 
-**Web Developer Intern – CodeTech IT Solutions (Jun 2024 – Jul 2024)**  
-- Created To-Do List and E-Commerce websites using HTML, CSS, JS  
-- Focused on clean UI design and responsive layouts  
-
 ---
 
 ### 🌐 Projects
 
+- **🌟 Car-Rental Website (2025)**  
+ A modern and fully functional Car Rental Web Application built with React, Node.js, Express, MongoDB, Tailwind CSS, and FramerMotion. It features interactive car listings with search and fi lter options, a        secure booking system with real-time notifi cations, anda fully responsive, animated interface powered by reusable React components.
+  `ReactJS · HTML · CSS · JavaScript · ReactJS · MongoDB · Framer Motion`
+
+- **🕹️ Real Estate Website (2025)**  
+  A modern and visually engaging Real Estate Web Application built using React, Tailwind CSS, and Framer Motion. It off ers a sleekuser interface for showcasing property listings and providing detailed              information in an intuitive layout.
+  `ReactJS · HTML · Tailwind CSS · JavaScript`
+
 - **🌟 Portfolio Website (2025)**  
   Personal website showcasing my journey, skills & contact  
   `ReactJS · HTML · CSS · JavaScript`
-
-- **🧮 Neumorphic Calculator (2025)**  
-  Clean calculator UI inspired by neumorphism  
-  `HTML · CSS · JavaScript`
 
 - **🕹️ Forest Game (2025)**  
   Game with obstacles, spiders, and interactive gameplay  
@@ -63,10 +63,6 @@
 
 - **🛍️ E-Commerce Website (2024)**  
   Product listings, cart functionality, and responsive design  
-  `HTML · CSS · JavaScript`
-
-- **📝 To-Do List App (2023)**  
-  Add, delete, and persist tasks using local storage  
   `HTML · CSS · JavaScript`
 
 ---
