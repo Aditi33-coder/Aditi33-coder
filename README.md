@@ -45,11 +45,11 @@
 
 ### 🌐 Projects
 
-- **🌟 Car-Rental Website (2025)**  
+- **🚗 Car-Rental Website (2025)**  
  A modern and fully functional Car Rental Web Application built with React, Node.js, Express, MongoDB, Tailwind CSS, and FramerMotion. It features interactive car listings with search and fi lter options, a        secure booking system with real-time notifi cations, anda fully responsive, animated interface powered by reusable React components.
   `ReactJS · HTML · CSS · JavaScript · ReactJS · MongoDB · Framer Motion`
 
-- **🕹️ Real Estate Website (2025)**  
+- **🏠Real Estate Website (2025)**  
   A modern and visually engaging Real Estate Web Application built using React, Tailwind CSS, and Framer Motion. It off ers a sleekuser interface for showcasing property listings and providing detailed              information in an intuitive layout.
   `ReactJS · HTML · Tailwind CSS · JavaScript`
 
